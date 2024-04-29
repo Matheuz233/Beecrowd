@@ -1,3 +1,4 @@
+
 def contar_ocorrencias(caractere, lista):
     return lista.count(caractere)
 
