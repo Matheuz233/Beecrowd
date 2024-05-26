@@ -1,5 +1,11 @@
-casos = int(input())
-pessoas = list(map(int, input().split(" ")))
-menor = min(pessoas)
-resultado = pessoas.index(menor)
-print(resultado + 1)
+a, b = map(int, input().split())
+
+q = a // b
+r = a % b
+    
+if r < 0:
+    r += abs(b)
+    q += 1
+    
+
+print(f"{q} {r}")
