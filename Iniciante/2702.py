@@ -6,3 +6,4 @@ bife = max(0, br - ba)
 massa = max(0, br - pa)
 
 print(frango + bife + massa)
+
