@@ -16,4 +16,4 @@ for i in range(len(resultado)):
     if resultado[i] == maiorValor:
         ultimoIndex = i
 
-print(ultimoIndex + 1) 
+print(ultimoIndex + 1)
