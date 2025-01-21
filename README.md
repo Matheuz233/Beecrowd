@@ -5,5 +5,5 @@ Este repositório é dedicado exclusivamente ao armazenamento das minhas soluç�
 
 ## Feedback 📫
 
-Se você tiver algum feedback, sinta-se à vontade para entrar em contato pelo meu e-mail: augustomatheus233@gmail.com.
+Se você tiver algum feedback, sinta-se à vontade para entrar em contato pelo meu email: augustomatheus233@gmail.com.
 
