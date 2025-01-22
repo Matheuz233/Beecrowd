@@ -19,5 +19,5 @@ while True:
         
         print(f"{entrada[:3]}.{entrada[3:6]}.{entrada[6:9]}-{b1}{b2}")
     
-    except EOFError:
+    except EOFError: 
         break
