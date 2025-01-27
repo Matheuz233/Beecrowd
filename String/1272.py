@@ -6,4 +6,4 @@ for _ in range(int(input())):
     if palavra != '':
       resultado += palavra[0]
     
-  print(resultado)
+  print(resultado) 
